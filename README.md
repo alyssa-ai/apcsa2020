@@ -1,4 +1,4 @@
-# AP Computer Science A 2020 (Edhesive) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmapoztate%2Fapcsa2020&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+# AP Computer Science A 2020 (Edhesive) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmapoztate%2Fapcsa2020&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
 This repository is organized into the units and lessons inside them. You will also find the assignments but you will find no answers to any of the reviews, quizzes, or exams. Labs assigned by the College Board do NOT follow the uniform formatting and their directory is named after the actual name for ease of search outside of Edhesive users.
